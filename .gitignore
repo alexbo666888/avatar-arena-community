@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.*-profile/
+*.log
+.bridge-room
+avatar-cache.json
+.output-test/
+ws-samples/
+.capture-compat*
+.rankings/
+exports/
+.env
+.env.*
+dist/
